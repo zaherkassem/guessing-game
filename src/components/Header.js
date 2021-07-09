@@ -2,11 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="ui fixed menu">
-      <div className="ui container center">
-        <h2>Forecast weather  API - Guessing Game </h2>
-      </div>
-    </div>
+      <h1 className="text-center pb-1">Guessing Game</h1>
   );
 };
 
