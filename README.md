@@ -17,6 +17,7 @@ guesses) or lost
 - Use redux
 - Build the app right
 - Styling - bootstarp react
+- Cities list: https://www.npmjs.com/package/country-state-city
 
 ## Installation
 - git clone https://github.com/zaherkassem/guessing-game
