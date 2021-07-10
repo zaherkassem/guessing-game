@@ -12,11 +12,10 @@ After 5 guesses we will replace the main area box with a new box that says if he
 guesses) or lost
 
 
-- Open Weather Map API Key  9cff733aee57cb05b63dd4f731c46bc4
+- OpenWeatherMap API
 - Use react
 - Use redux
-- Build the app right
-- Styling - bootstarp react
+- Bootstarp react
 - Cities list: https://www.npmjs.com/package/country-state-city
 
 ## Installation
@@ -26,9 +25,7 @@ guesses) or lost
 ## Run App
 
 - run the app via "npm start"
-
 - Runs the app in the development mode.\ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-- The page will reload if you make edits.\ You will also see any lint errors in the console.
 
 # Versions
 
